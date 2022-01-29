@@ -1,14 +1,11 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 html,
 body {
   border: none;
   font-family: 'Roboto', sans-serif;
   scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 img{
@@ -275,7 +272,7 @@ img{
   color: #5D6970;
   width: 350px;
   height: 24px;
-
+}
 
   .c-footer-component {
   width: 100%;
